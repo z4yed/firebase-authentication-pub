@@ -19,4 +19,4 @@ export default firebaseConfig;
 ```
 
 Here is a live url for how that works:
-[]()
+[https://z4yed-firebase-google-auth.netlify.app/](https://z4yed-firebase-google-auth.netlify.app/)
